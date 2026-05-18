@@ -1,0 +1,6 @@
+# Dev-only tooling & artifacts — never deployed
+.preview/
+assets/.preview/
+**/__pycache__/
+*.pyc
+.DS_Store
